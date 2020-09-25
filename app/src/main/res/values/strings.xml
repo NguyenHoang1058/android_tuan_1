@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="str_text">GROW "\n" YOUR BUSINESS</string>
+    <string name="str_text_2nd">We will help you to grow your business using "\n" online server</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="login">LOGIN</string>
+    <string name="how_we_work">HOW WE WORK?</string>
+    <string name="main_image">main_image</string>
+</resources>
