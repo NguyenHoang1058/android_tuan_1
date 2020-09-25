@@ -6,4 +6,8 @@
     <string name="login">LOGIN</string>
     <string name="how_we_work">HOW WE WORK?</string>
     <string name="main_image">main_image</string>
+    <string name="code">CODE</string>
+    <string name="verification">VERIFICATION</string>
+    <string name="message">Enter ontime password sent on "\n" ++849092605798</string>
+    <string name="verify_code">VERIFY CODE</string>
 </resources>
