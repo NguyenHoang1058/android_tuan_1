@@ -10,4 +10,12 @@
     <string name="verification">VERIFICATION</string>
     <string name="message">Enter ontime password sent on "\n" ++849092605798</string>
     <string name="verify_code">VERIFY CODE</string>
+    <string name="forget_password">FORGET "\n" PASSWORD</string>
+    <string name="text">Provide your account’s email for which you "\n" want to reset your password</string>
+    <string name="email">Email</string>
+    <string name="next">NEXT</string>
+    <string name="when_you_agree_to_terms_and_conditions">When you agree to terms and conditions</string>
+    //sửa lại link
+    <string name="for_got_your_password">For got your password?</string>
+    <string name="or_login_with">Or login with</string>
 </resources>
